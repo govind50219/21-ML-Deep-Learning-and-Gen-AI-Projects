@@ -10,8 +10,8 @@ The mid-section focuses on visual intelligence. Students build digit recognizers
 Phase 3: GenAI & Autonomous Agents
 The final tier delves into cutting-edge AI. Highlights include:
 
-1)Natural Language Processing: Building custom GPTs and SQL generators.
+1) Natural Language Processing: Building custom GPTs and SQL generators.
 
-2)RAG Systems: Creating chatbots that interact with private knowledge bases.
+2) RAG Systems: Creating chatbots that interact with private knowledge bases.
 
-3)AI Agents: Developing autonomous market analysts, web automation browsers, and complex newsletter pipelines using n8n.
+3) AI Agents: Developing autonomous market analysts, web automation browsers, and complex newsletter pipelines using n8n.
